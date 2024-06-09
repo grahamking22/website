@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Graham&#39;s website</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content in Home on Graham&#39;s website</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:1313/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/about/</guid>
+      <description>About Us Welcome to GWS, where creativity meets functionality in web design. We are a small, dedicated team of designers and developers passionate about creating beautiful, user-friendly websites that help your business thrive online.&#xA;Our Mission Our mission is to empower small businesses with stunning, responsive websites that not only look great but also drive growth and engagement. We believe that every business deserves an online presence that truly reflects its unique identity and values.</description>
+    </item>
+    <item>
+      <title>Contact</title>
+      <link>http://localhost:1313/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/contact/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.&#xA;Your Name Email Address An email address is required. Message </description>
+    </item>
+    <item>
+      <title>Shop</title>
+      <link>http://localhost:1313/shop/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/shop/</guid>
+      <description>This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the shortcode to make it work. Check out Formspree for a simple, free form service.</description>
+    </item>
+  </channel>
+</rss>

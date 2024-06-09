@@ -1,0 +1,14 @@
+module:
+  hugoVersion:
+    min: "0.84.0"
+params:
+  ananke_socials:
+  - name: twitter
+    url: https://twitter.com
+  - name: linkedin
+    url: https://linkedin.com
+  - name: facebook
+    url: https://facebook.com
+    rel: me noopener
+  - name: youtube
+    url: https://youtube.com
